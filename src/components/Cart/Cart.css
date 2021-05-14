@@ -1,0 +1,9 @@
+.cart-containers p {
+  margin: 2px;
+}
+
+.total {
+  color: brown;
+  font-weight: 900;
+  padding-top: 10px;
+}

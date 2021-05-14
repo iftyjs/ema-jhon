@@ -1,0 +1,28 @@
+.header {
+  text-align: center;
+}
+
+.header img {
+  height: 80px;
+}
+
+.header nav {
+  background: #171717;
+}
+
+.header nav ul li {
+  list-style: none;
+  display: inline;
+}
+
+.header nav ul li a {
+  color: #fff;
+  text-decoration: none;
+  margin-right: 20px;
+  line-height: 40px;
+  padding: 11px;
+}
+
+.header nav ul li a:hover {
+  background-color: gray;
+}
